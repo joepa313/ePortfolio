@@ -1,0 +1,8 @@
+## Original Version (Before Enhancements)
+
+The original Travlr Full Stack Application was developed during CS 465. 
+This version demonstrates the initial MEAN-style implementation using 
+Express routing, MongoDB integration, and server-rendered views.
+
+**Repository Link:**  
+[View Original Travlr Project on GitHub](https://github.com/joepa313/travlr-fullstack-app)
